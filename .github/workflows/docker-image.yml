@@ -12,4 +12,4 @@ jobs:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: doudouhn6/doudouhn6
           username: 'doudouhn6'
-          password: ${{ secrets.DOCKER_PASSWORD }}
+          password: ${{ secrets.DOCKER }}
